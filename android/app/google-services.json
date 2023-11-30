@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "437969584078",
+    "project_id": "vtube1-login",
+    "storage_bucket": "vtube1-login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437969584078:android:e33c2c6f57ba59eb9f359f",
+        "android_client_info": {
+          "package_name": "com.example.vtube"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437969584078-3rfooka71ia23bceadhipd2avrvjgj0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQSrgVJ_jPHIqe5XjhHZAIkQ2EjAmMMRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437969584078-3rfooka71ia23bceadhipd2avrvjgj0k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
